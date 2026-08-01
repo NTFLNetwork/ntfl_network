@@ -148,39 +148,6 @@ const LOCAL_RANKINGS = [
 
 const CANONICAL_HISTORY = [
   {
-    season: "Hall of Fame",
-    title: "Greg",
-    champion: "NTFL Founder",
-    runner_up: "Seattle Seahawks Head Coach",
-    body: `Without Greg, there would be no NTFL as we know it today. In August 2024, Greg founded the FLTFL, the league that would eventually evolve into the National Twitter Football League. What began as a small idea quickly became one of the premier football simulation leagues on X, successfully completing three seasons.
-
-Greg's impact extended beyond founding the league. During Season 2, he accepted the challenge of taking over the Seattle Seahawks after they had fallen below .500. Under his leadership, Seattle rallied to a 10–7 finish, earning the AFC's seventh seed before upsetting the third-seeded Cardinals in the Wild Card Round. Greg continues to contribute to the league as the Seahawks' Co-Head Coach in Season 3 while remaining one of the most influential figures in NTFL history.`,
-  },
-  {
-    season: "Hall of Fame",
-    title: "Balti",
-    champion: "Season 1 Champion & Former Commissioner",
-    runner_up: "Baltimore Ravens Head Coach",
-    body: `On August 8, 2024, Balti became the Head Coach of the Baltimore Ravens in the FLTFL. His Ravens dominated the inaugural season, finishing 16–1, with their only loss coming in Week 17 against Dudeman's Bengals. Baltimore earned the No. 2 seed before defeating the Jets, Broncos, and Bills to capture the AFC Championship.
-
-In the league's first Super Bowl, Balti's Ravens defeated Ant's 16–1 Giants 268–202, completing one of the greatest postseason runs in league history. His remarkable season earned him Super Bowl MVP and Coach of the Year before retiring from coaching.
-
-Following Season 1, Balti became commissioner and successfully rebranded the league into the National Twitter Football League (NTFL), overseeing another successful season and playoff run. After Season 2, he stepped away from day-to-day league operations, naming Season 2 MVP Hysell as commissioner while continuing to support the league through graphic design and behind-the-scenes contributions.`,
-  },
-  {
-    season: "Hall of Fame",
-    title: "Hysell",
-    champion: "Season 2 MVP & Season 3 Commissioner",
-    runner_up: "Washington Commanders Assistant Coach",
-    body: `Hysell entered the NTFL during Season 2 as the Head Coach of the Kansas City Chiefs, beginning his coaching career with an 0–2 record. His journey changed during Week 2, when he joined the Washington Commanders as Assistant Coach after helping orchestrate a major upset over the Giants.
-
-From that point forward, the Commanders became one of the league's most dominant teams. In Week 7 against the Dolphins, Washington set a new league record for points scored in a single game, surpassing the previous record held by Balti's Season 1 Ravens with a historic 300-point performance.
-
-The Commanders finished the regular season as the No. 2 seed before advancing to the Super Bowl with victories over Greg's Seahawks, Watts' Cardinals, and Mossed's Lions. Although Washington fell to Kane's Ravens 261–253 in the championship game, Hysell's season was one of the most decorated in league history.
-
-By season's end, Hysell had helped lead Washington to multiple NTFL Honors, including League MVP, Assistant Coach of the Year, Most Improved Team, and Move the Chains Player of the Year for teammate Pain. Following the season, Hysell was selected as commissioner for Season 3, continuing to help shape the future of the NTFL.`,
-  },
-  {
     season: "Season 1",
     title: "Champion: Baltimore Ravens",
     champion: "Baltimore Ravens",
