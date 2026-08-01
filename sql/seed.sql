@@ -89,7 +89,7 @@ values
 ('w4-chiefs-at-buccaneers', 'W4', 4, null, null, 'Tampa Bay Buccaneers', 'Kansas City Chiefs', null, null, 'scheduled', false, null, 'AFC West', null),
 ('w4-commanders-at-cardinals', 'W4', 4, null, null, 'Arizona Cardinals', 'Washington Commanders', null, null, 'scheduled', false, true, 'NFC East', 'TNF'),
 ('w4-panthers-at-cowboys', 'W4', 4, null, null, 'Dallas Cowboys', 'Carolina Panthers', null, null, 'scheduled', false, true, 'NFC East', 'SNF'),
-('w4-chargers-at-eagles', 'W4', 4, null, null, 'Philadelphia Eagles', 'Los Angeles Chargers', 115, 80, 'final', false, null, 'AFC West', null),
+('w4-chargers-at-eagles', 'W4', 4, null, null, 'Philadelphia Eagles', 'Los Angeles Chargers', 115, 80, 'final', false, null, 'AFC West', 'Final'),
 ('w4-seahawks-at-falcons', 'W4', 4, null, null, 'Atlanta Falcons', 'Seattle Seahawks', null, null, 'scheduled', false, null, 'NFC South', null),
 ('w4-lions-at-giants', 'W4', 4, null, null, 'New York Giants', 'Detroit Lions', null, null, 'scheduled', false, null, 'NFC East', null),
 ('w4-bears-at-jaguars', 'W4', 4, null, null, 'Jacksonville Jaguars', 'Chicago Bears', null, null, 'scheduled', false, null, 'AFC South', null),
